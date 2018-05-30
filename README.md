@@ -2,7 +2,7 @@
 
 Link to course [here](https://www.udemy.com/python-for-data-science-and-machine-learning-bootcamp/learn/v4/overview)
 
-## Python for Data Science and Machine Learning Bootcamp
+## Python for Data Science and Machine Learning
 
 This comprehensive course will be your guide to learning how to use the power of Python to analyze data, create beautiful visualizations, and use powerful machine learning algorithms!
 
