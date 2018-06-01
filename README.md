@@ -10,47 +10,31 @@ This course is designed for both beginners with some programming experience or e
 
 This comprehensive course is comparable to other Data Science bootcamps that usually cost thousands of dollars, but now you can learn all that information at a fraction of the cost! With over 100 HD video lectures and detailed code notebooks for every lecture this is one of the most comprehensive course for data science and machine learning on Udemy!
 
-We'll teach you how to program with Python, how to create amazing data visualizations, and how to use Machine Learning with Python! Here a just a few of the topics we will be learning:
+## Course Content
 
-- Programming with Python
-- NumPy with Python
-- Using pandas Data Frames to solve complex tasks
-- Use pandas to handle Excel Files
-- Web scraping with python
-- Connect Python to SQL
-- Use matplotlib and seaborn for data visualizations
-- Use plotly for interactive visualizations
-- Machine Learning with SciKit Learn, including:
+- Course Introduction
+- Environment Set-Up
+- Jupyter Overview
+- Python Crash Course
+- Python for Data Analysis - NumPy
+- Python for Data Analysis - Pandas
+- Python for Data Analysis - Pandas Exercises
+- Python for Data Visualization - Matplotlib
+- Python for Data Visualization - Seaborn
+- Python for Data Visualization - Pandas Built-in Data Visualization
+- Python for Data Visualization - Plotly and Cufflinks
+- Python for Data Visualization - Geographical Plotting
+- Data Capstone Project
+- Introduction to Machine Learning
 - Linear Regression
-- K Nearest Neighbors
-- K Means Clustering
-- Decision Trees
-- Random Forests
-- Natural Language Processing
-- Neural Nets and Deep Learning
-- Support Vector Machines
-- and much, much more!
-
-## What are the requirements?
-
-- Some programming experience
-- Admin permissions to download files
-
-## What am I going to get from this course?
-
-- Use Python for Data Science and Machine Learning
-- Use Spark for Big Data Analysis
-- Implement Machine Learning Algorithms
-- Learn to use NumPy for Numerical Data
-- Learn to use Pandas for Data Analysis
-- Learn to use Matplotlib for Python Plotting
-- Learn to use Seaborn for statistical plots
-- Use Plotly for interactive dynamic visualizations
-- Use SciKit-Learn for Machine Learning Tasks
-- K-Means Clustering
+- Cross Validation and Bias-Variance Trade-Off
 - Logistic Regression
-- Linear Regression
-- Random Forest and Decision Trees
-- Natural Language Processing and Spam Filters
-- Neural Networks
+- K Nearest Neighbors
+- Decision Trees and Random Forests
 - Support Vector Machines
+- K Means Clustering
+- Principal Component Analysis
+- Recommender Systems
+- Natural Language Processing
+- Big Data and Spark with Python
+- Neural Nets and Deep Learning
