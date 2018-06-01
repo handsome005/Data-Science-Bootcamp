@@ -44,8 +44,31 @@ This comprehensive course is comparable to other Data Science bootcamps that usu
   - [x] Numpy Exercises Solutions
 
 - Python for Data Analysis - Pandas
+  - [x] Welcome to the Pandas Section!
+  - [x] Introduction to Pandas
+  - [x] Series
+  - [x] DataFrames - Part 1
+  - [x] DataFrames - Part 2
+  - [x] DataFrames - Part 3
+  - [x] Missing Data
+  - [x] Groupby
+  - [x] Merging Joining and Concatenating
+  - [ ] Operations
+  - [ ] Data Input and Output
+
 - Python for Data Analysis - Pandas Exercises
+  - [ ] SF Salaries Exercise
+  - [ ] Note on SF Salary Exercise
+  - [ ] Ecommerce Purchases Exercise
+
 - Python for Data Visualization - Matplotlib
+  - [ ] Welcome to the Data Visualization Section!
+  - [ ] Introduction to Matplotlib
+  - [ ] Matplotlib Part 1
+  - [ ] Matplotlib Part 2
+  - [ ] Matplotlib Part 3
+  - [ ] Matplotlib Exercises
+
 - Python for Data Visualization - Seaborn
 - Python for Data Visualization - Pandas Built-in Data Visualization
 - Python for Data Visualization - Plotly and Cufflinks
