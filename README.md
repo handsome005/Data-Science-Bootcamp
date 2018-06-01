@@ -13,10 +13,36 @@ This comprehensive course is comparable to other Data Science bootcamps that usu
 ## Course Content
 
 - Course Introduction
+  - [x] Introduction to the Course
+  - [x] Course Help and Welcome
+  - [x] Course FAQs
+
 - Environment Set-Up
+  - [x] Environment Set-up and Installation
+  
 - Jupyter Overview
+  - [x] Jupyter Notebooks
+  - [x] Optional: Virtual Environments
+
 - Python Crash Course
+  - [x] Welcome to the Python Crash Course Section!
+  - [x] Introduction to Python Crash Course
+  - [x] Python Crash Course - Part 1
+  - [x] Python Crash Course - Part 2
+  - [x] Python Crash Course - Part 3
+  - [x] Python Crash Course - Part 4
+  - [x] Python Crash Course Exercises
+
 - Python for Data Analysis - NumPy
+  - [x] Welcome to the NumPy Section!
+  - [x] Introduction to Numpy
+  - [x] Numpy Arrays
+  - [x] Quick Note on Array Indexing
+  - [x] Numpy Array Indexing
+  - [x] Numpy Operations
+  - [x] Numpy Exercises Overview
+  - [x] Numpy Exercises Solutions
+
 - Python for Data Analysis - Pandas
 - Python for Data Analysis - Pandas Exercises
 - Python for Data Visualization - Matplotlib
