@@ -40,8 +40,7 @@ This comprehensive course is comparable to other Data Science bootcamps that usu
   - [x] Quick Note on Array Indexing
   - [x] Numpy Array Indexing
   - [x] Numpy Operations
-  - [x] Numpy Exercises Overview
-  - [x] Numpy Exercises Solutions
+  - [x] Numpy Exercises
 
 - Python for Data Analysis - Pandas
   - [x] Welcome to the Pandas Section!
