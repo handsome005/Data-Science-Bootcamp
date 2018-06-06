@@ -52,13 +52,13 @@ This comprehensive course is comparable to other Data Science bootcamps that usu
   - [x] Missing Data
   - [x] Groupby
   - [x] Merging Joining and Concatenating
-  - [ ] Operations
-  - [ ] Data Input and Output
+  - [x] Operations
+  - [x] Data Input and Output
 
 - Python for Data Analysis - Pandas Exercises
-  - [ ] SF Salaries Exercise
-  - [ ] Note on SF Salary Exercise
-  - [ ] Ecommerce Purchases Exercise
+  - [x] SF Salaries Exercise
+  - [x] Note on SF Salary Exercise
+  - [x] Ecommerce Purchases Exercise
 
 - Python for Data Visualization - Matplotlib
   - [ ] Welcome to the Data Visualization Section!
