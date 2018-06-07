@@ -69,10 +69,34 @@ This comprehensive course is comparable to other Data Science bootcamps that usu
   - [x] Matplotlib Exercises
 
 - Python for Data Visualization - Seaborn
+  - [ ] Introduction to Seaborn
+  - [ ] Distribution Plots
+  - [ ] Categorical Plots
+  - [ ] Matrix Plots
+  - [ ] Grids
+  - [ ] Regression Plots
+  - [ ] Style and Color
+  - [ ] Seaborn Exercise
+
 - Python for Data Visualization - Pandas Built-in Data Visualization
+  - [ ] Pandas Built-in Data Visualization
+  - [ ] Pandas Data Visualization Exercise
+
 - Python for Data Visualization - Plotly and Cufflinks
+  - [ ] Introduction to Plotly and Cufflinks
+  - [ ] Plotly and Cufflinks
+
 - Python for Data Visualization - Geographical Plotting
+  - [ ] Introduction to Geographical Plotting
+  - [ ] Choropleth Maps - Part 1 - USA
+  - [ ] Choropleth Maps - Part 2 - World
+  - [ ] Choropleth Exercises
+
 - Data Capstone Project
+  - [ ] Welcome to the Data Capstone Projects!
+  - [ ] 911 Calls Project
+  - [ ] Finance Data Project
+
 - Introduction to Machine Learning
 - Linear Regression
 - Cross Validation and Bias-Variance Trade-Off
