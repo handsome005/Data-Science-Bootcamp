@@ -63,10 +63,11 @@ This comprehensive course is comparable to other Data Science bootcamps that usu
 - Python for Data Visualization - Matplotlib
   - [x] Welcome to the Data Visualization Section!
   - [x] Introduction to Matplotlib
-  - [x] Matplotlib Part 1
-  - [x] Matplotlib Part 2
-  - [x] Matplotlib Part 3
-  - [x] Matplotlib Exercises
+  - [x] [Matplotlib Part 1](Python-for-Data-Visualization/Matplotlib/Matplotlib%20Concepts%20Lecture.ipynb)
+  - [x] [Matplotlib Part 2](Python-for-Data-Visualization/Matplotlib/Matplotlib%20Concepts%20Lecture.ipynb)
+  - [x] [Matplotlib Part 3](Python-for-Data-Visualization/Matplotlib/Matplotlib%20Concepts%20Lecture.ipynb)
+  - [x] [Matplotlib Exercises](Python-for-Data-Visualization/Matplotlib/Matplotlib%20Exercises%20.ipynb)
+  - [ ] [Advance Concepts](Python-for-Data-Visualization/Matplotlib/Advanced%20Matplotlib%20Concepts.ipynb)
 
 - Python for Data Visualization - Seaborn
   - [ ] Introduction to Seaborn
