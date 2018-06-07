@@ -61,12 +61,12 @@ This comprehensive course is comparable to other Data Science bootcamps that usu
   - [x] Ecommerce Purchases Exercise
 
 - Python for Data Visualization - Matplotlib
-  - [ ] Welcome to the Data Visualization Section!
-  - [ ] Introduction to Matplotlib
-  - [ ] Matplotlib Part 1
-  - [ ] Matplotlib Part 2
-  - [ ] Matplotlib Part 3
-  - [ ] Matplotlib Exercises
+  - [x] Welcome to the Data Visualization Section!
+  - [x] Introduction to Matplotlib
+  - [x] Matplotlib Part 1
+  - [x] Matplotlib Part 2
+  - [x] Matplotlib Part 3
+  - [x] Matplotlib Exercises
 
 - Python for Data Visualization - Seaborn
 - Python for Data Visualization - Pandas Built-in Data Visualization
