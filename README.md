@@ -70,18 +70,18 @@ This comprehensive course is comparable to other Data Science bootcamps that usu
   - [ ] [Advance Concepts](Python-for-Data-Visualization/Matplotlib/Advanced%20Matplotlib%20Concepts.ipynb)
 
 - Python for Data Visualization - Seaborn
-  - [ ] Introduction to Seaborn
-  - [ ] Distribution Plots
-  - [ ] Categorical Plots
-  - [ ] Matrix Plots
-  - [ ] Grids
-  - [ ] Regression Plots
-  - [ ] Style and Color
-  - [ ] Seaborn Exercise
+  - [x] Introduction to Seaborn
+  - [x] [Distribution Plots](Python-for-Data-Visualization/Seaborn/Distribution%20Plots.ipynb)
+  - [x] [Categorical Plots](Python-for-Data-Visualization/Seaborn/Categorical%20Plots.ipynb)
+  - [x] [Matrix Plots](Python-for-Data-Visualization/Seaborn/Matrix%20Plots.ipynb)
+  - [x] [Grids](Python-for-Data-Visualization/Seaborn/Grids.ipynb)
+  - [x] [Regression Plots](Python-for-Data-Visualization/Seaborn/Regression%20Plots.ipynb)
+  - [x] [Style and Color](Python-for-Data-Visualization/Seaborn/Style%20and%20Color.ipynb)
+  - [x] [Seaborn Exercise](Python-for-Data-Visualization/Seaborn/Seaborn%20Exercises%20.ipynb)
 
 - Python for Data Visualization - Pandas Built-in Data Visualization
-  - [ ] Pandas Built-in Data Visualization
-  - [ ] Pandas Data Visualization Exercise
+  - [x] [Pandas Built-in Data Visualization](Python-for-Data-Visualization/Pandas%20Built-in%20Data%20Viz/Pandas%20Built-in%20Data%20Visualization.ipynb)
+  - [x] [Pandas Data Visualization Exercise](Python-for-Data-Visualization/Pandas%20Built-in%20Data%20Viz/Pandas%20Data%20Visualization%20Exercise%20.ipynb)
 
 - Python for Data Visualization - Plotly and Cufflinks
   - [ ] Introduction to Plotly and Cufflinks
