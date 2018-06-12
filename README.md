@@ -86,7 +86,7 @@ This comprehensive course is comparable to other Data Science bootcamps that usu
 - Python for Data Visualization - Plotly and Cufflinks
   - [x] Introduction to Plotly and Cufflinks
   - [x] [Plotly and Cufflinks](Python-for-Data-Visualization/Plotly%20and%20Cufflinks/Plotly%20and%20Cufflinks.ipynb)
-  - [Plotly Cheat Sheet](Python-for-Data-Visualization/Geographical%20Plotting/plotly_cheat_sheet.pdf)
+  - [x] [Plotly Cheat Sheet](Python-for-Data-Visualization/Geographical%20Plotting/plotly_cheat_sheet.pdf)
 
 - Python for Data Visualization - Geographical Plotting
   - [x] Introduction to Geographical Plotting
