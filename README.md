@@ -84,18 +84,19 @@ This comprehensive course is comparable to other Data Science bootcamps that usu
   - [x] [Pandas Data Visualization Exercise](Python-for-Data-Visualization/Pandas%20Built-in%20Data%20Viz/Pandas%20Data%20Visualization%20Exercise%20.ipynb)
 
 - Python for Data Visualization - Plotly and Cufflinks
-  - [ ] Introduction to Plotly and Cufflinks
-  - [ ] Plotly and Cufflinks
+  - [x] Introduction to Plotly and Cufflinks
+  - [x] [Plotly and Cufflinks](Python-for-Data-Visualization/Plotly%20and%20Cufflinks/Plotly%20and%20Cufflinks.ipynb)
+  - [x] [Plotly Cheat Sheet](Python-for-Data-Visualization/Geographical%20Plotting/plotly_cheat_sheet.pdf)
 
 - Python for Data Visualization - Geographical Plotting
-  - [ ] Introduction to Geographical Plotting
-  - [ ] Choropleth Maps - Part 1 - USA
-  - [ ] Choropleth Maps - Part 2 - World
-  - [ ] Choropleth Exercises
+  - [x] Introduction to Geographical Plotting
+  - [x] [Choropleth Maps - Part 1 - USA](Python-for-Data-Visualization/Geographical%20Plotting/Choropleth%20Maps.ipynb)
+  - [x] [Choropleth Maps - Part 2 - World](Python-for-Data-Visualization/Geographical%20Plotting/Choropleth%20Maps.ipynb)
+  - [x] [Choropleth Exercises](Python-for-Data-Visualization/Geographical%20Plotting/Choropleth%20Maps%20Exercise%20.ipynb)
 
 - Data Capstone Project
-  - [ ] Welcome to the Data Capstone Projects!
-  - [ ] 911 Calls Project
+  - [x] Welcome to the Data Capstone Projects!
+  - [x] [911 Calls Project](Data-Capstone-Projects/911%20Calls%20Data%20Capstone%20Project%20.ipynb)
   - [ ] Finance Data Project
 
 - Introduction to Machine Learning
