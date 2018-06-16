@@ -97,7 +97,7 @@ This comprehensive course is comparable to other Data Science bootcamps that usu
 - Data Capstone Project
   - [x] Welcome to the Data Capstone Projects!
   - [x] [911 Calls Project](Data-Capstone-Projects/911%20Calls%20Data%20Capstone%20Project%20.ipynb)
-  - [ ] Finance Data Project
+  - [x] [Finance Data Project](Data-Capstone-Projects/Finance%20Project%20.ipynb)
 
 - Introduction to Machine Learning
 - Linear Regression
