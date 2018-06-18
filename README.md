@@ -100,10 +100,32 @@ This comprehensive course is comparable to other Data Science bootcamps that usu
   - [x] [Finance Data Project](Data-Capstone-Projects/Finance%20Project%20.ipynb)
 
 - Introduction to Machine Learning
+- [x] Welcome to the Machine Learning Section!
+- [ISLR 6th Edition PDF (Machine Learning Textbook)](Machine%20Learning%20Sections/Statistical%20Learning.pdf)
+- [x] Introduction to Machine Learning
+- [x] Machine Learning with Python
+
 - Linear Regression
+- [x] Linear Regression Theory
+- [x] [Linear Regression with Python - Part 1](Machine%20Learning%20Sections/Linear-Regression/Linear%20Regression%20with%20Python.ipynb)
+- [x] [Linear Regression with Python - Part 2](Machine%20Learning%20Sections/Linear-Regression/Linear%20Regression%20with%20Python.ipynb)
+- [x] [Linear Regression Exercise](Machine%20Learning%20Sections/Linear-Regression/Linear%20Regression%20-%20Project%20Exercise%20.ipynb)
+
 - Cross Validation and Bias-Variance Trade-Off
+- [x] Bias Variance Trade-Off
+
 - Logistic Regression
+- [x] Logistic Regression Theory
+- [x] [Logistic Regression with Python - Part 1](Machine%20Learning%20Sections/Logistic-Regression/Logistic%20Regression%20with%20Python.ipynb)
+- [x] [Logistic Regression with Python - Part 2](Machine%20Learning%20Sections/Logistic-Regression/Logistic%20Regression%20with%20Python.ipynb)
+- [x] [Logistic Regression with Python - Part 3](Machine%20Learning%20Sections/Logistic-Regression/Logistic%20Regression%20with%20Python.ipynb)
+- [x] [Logistic Regression Exercise](Machine%20Learning%20Sections/Logistic-Regression/Logistic%20Regression%20Project%20.ipynb)
+
 - K Nearest Neighbors
+- [x] KNN Theory
+- [ ] KNN with Python
+- [ ] KNN Exercise
+
 - Decision Trees and Random Forests
 - Support Vector Machines
 - K Means Clustering
