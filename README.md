@@ -123,8 +123,8 @@ This comprehensive course is comparable to other Data Science bootcamps that usu
 
 - K Nearest Neighbors
   - [x] KNN Theory
-  - [ ] KNN with Python
-  - [ ] KNN Exercise
+  - [x] [KNN with Python](K-Nearest-Neighbors/K%20Nearest%20Neighbors%20with%20Python.ipynb)
+  - [x] [KNN Exercise](Machine%20Learning%20Sections/K-Nearest-Neighbors/K%20Nearest%20Neighbors%20Project.ipynb)
 
 - Decision Trees and Random Forests
 - Support Vector Machines
