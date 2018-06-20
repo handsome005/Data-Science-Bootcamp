@@ -128,6 +128,10 @@ This course is designed for both beginners with some programming experience or e
   - [x] [Decision Trees and Random Forest Exercise](Machine%20Learning%20Sections/Decision-Trees-and-Random-Forests/Decision%20Trees%20and%20Random%20Forest%20Project%20.ipynb)
 
 - Support Vector Machines
+  - [x] SVM Theory
+  - [x] [Support Vector Machines with Python](Machine%20Learning%20Sections/Support-Vector-Machines/Support%20Vector%20Machines%20with%20Python.ipynb)
+  - [ ] [SVM Exercise](Machine%20Learning%20Sections/Support-Vector-Machines/Support%20Vector%20Machines%20Project%20.ipynb)
+
 - K Means Clustering
 - Principal Component Analysis
 - Recommender Systems
