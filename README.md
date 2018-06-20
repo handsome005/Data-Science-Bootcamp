@@ -123,6 +123,10 @@ This course is designed for both beginners with some programming experience or e
   - [x] [KNN Exercise](Machine%20Learning%20Sections/K-Nearest-Neighbors/K%20Nearest%20Neighbors%20Project.ipynb)
 
 - Decision Trees and Random Forests
+  - [x] Introduction to Tree Methods
+  - [x] [Decision Trees and Random Forest with Python](Machine%20Learning%20Sections/Decision-Trees-and-Random-Forests/Decision%20Trees%20and%20Random%20Forests%20in%20Python.ipynb)
+  - [x] [Decision Trees and Random Forest Exercise](Machine%20Learning%20Sections/Decision-Trees-and-Random-Forests/Decision%20Trees%20and%20Random%20Forest%20Project%20.ipynb)
+
 - Support Vector Machines
 - K Means Clustering
 - Principal Component Analysis
