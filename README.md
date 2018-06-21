@@ -130,7 +130,7 @@ This course is designed for both beginners with some programming experience or e
 - Support Vector Machines
   - [x] SVM Theory
   - [x] [Support Vector Machines with Python](Machine%20Learning%20Sections/Support-Vector-Machines/Support%20Vector%20Machines%20with%20Python.ipynb)
-  - [ ] [SVM Exercise](Machine%20Learning%20Sections/Support-Vector-Machines/Support%20Vector%20Machines%20Project%20.ipynb)
+  - [x] [SVM Exercise](Machine%20Learning%20Sections/Support-Vector-Machines/Support%20Vector%20Machines%20Project%20.ipynb)
 
 - K Means Clustering
 - Principal Component Analysis
