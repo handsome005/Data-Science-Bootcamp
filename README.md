@@ -133,6 +133,10 @@ This course is designed for both beginners with some programming experience or e
   - [x] [SVM Exercise](Machine%20Learning%20Sections/Support-Vector-Machines/Support%20Vector%20Machines%20Project%20.ipynb)
 
 - K Means Clustering
+  - [x] K Means Algorithm Theory
+  - [x] [K Means with Python](Machine%20Learning%20Sections/K-Means-Clustering/K%20Means%20Clustering%20with%20Python.ipynb)
+  - [x] [K Means Exercise](Machine%20Learning%20Sections/K-Means-Clustering/K%20Means%20Clustering%20Project%20.ipynb)
+
 - Principal Component Analysis
 - Recommender Systems
 - Natural Language Processing
