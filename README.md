@@ -98,32 +98,32 @@ This course is designed for both beginners with some programming experience or e
 - Introduction to Machine Learning
   - [x] Welcome to the Machine Learning Section!
   - [ISLR 6th Edition PDF (Machine Learning Textbook)](Machine%20Learning%20Sections/Statistical%20Learning.pdf)
-  - [x] Introduction to Machine Learning
+  - [x] [Introduction to Machine Learning](Machine%20Learning%20Sections/Intro%20to%20Machine%20Learning.pdf)
   - [x] Machine Learning with Python
 
 - Linear Regression
-  - [x] Linear Regression Theory
+  - [x] [Linear Regression Theory](Machine%20Learning%20Sections/Linear-Regression/Python%20-%20Intro%20to%20Linear%20Regression.pdf)
   - [x] [Linear Regression with Python - Part 1](Machine%20Learning%20Sections/Linear-Regression/Linear%20Regression%20with%20Python.ipynb)
   - [x] [Linear Regression with Python - Part 2](Machine%20Learning%20Sections/Linear-Regression/Linear%20Regression%20with%20Python.ipynb)
   - [x] [Linear Regression Exercise](Machine%20Learning%20Sections/Linear-Regression/Linear%20Regression%20-%20Project%20Exercise%20.ipynb)
 
 - Cross Validation and Bias-Variance Trade-Off
-  - [x] Bias Variance Trade-Off
+  - [x] [Bias Variance Trade-Off](Machine%20Learning%20Sections/Cross-Validation-Bias-Variance/Bias%20Variance%20Trade-Off.pdf)
 
 - Logistic Regression
-  - [x] Logistic Regression Theory
+  - [x] [Logistic Regression Theory](Machine%20Learning%20Sections/Logistic-Regression/Intro%20to%20Logistic%20Regression.pdf)
   - [x] [Logistic Regression with Python - Part 1](Machine%20Learning%20Sections/Logistic-Regression/Logistic%20Regression%20with%20Python.ipynb)
   - [x] [Logistic Regression with Python - Part 2](Machine%20Learning%20Sections/Logistic-Regression/Logistic%20Regression%20with%20Python.ipynb)
   - [x] [Logistic Regression with Python - Part 3](Machine%20Learning%20Sections/Logistic-Regression/Logistic%20Regression%20with%20Python.ipynb)
   - [x] [Logistic Regression Exercise](Machine%20Learning%20Sections/Logistic-Regression/Logistic%20Regression%20Project%20.ipynb)
 
 - K Nearest Neighbors
-  - [x] KNN Theory
+  - [x] [KNN Theory](Machine%20Learning%20Sections/K-Nearest-Neighbors/Intro%20to%20K%20Nearest%20Neighbors.pdf)
   - [x] [KNN with Python](K-Nearest-Neighbors/K%20Nearest%20Neighbors%20with%20Python.ipynb)
   - [x] [KNN Exercise](Machine%20Learning%20Sections/K-Nearest-Neighbors/K%20Nearest%20Neighbors%20Project.ipynb)
 
 - Decision Trees and Random Forests
-  - [x] Introduction to Tree Methods
+  - [x] [Introduction to Tree Methods](Machine%20Learning%20Sections/Decision-Trees-and-Random-Forests/Intro%20to%20Tree%20Methods.pdf)
   - [x] [Decision Trees and Random Forest with Python](Machine%20Learning%20Sections/Decision-Trees-and-Random-Forests/Decision%20Trees%20and%20Random%20Forests%20in%20Python.ipynb)
   - [x] [Decision Trees and Random Forest Exercise](Machine%20Learning%20Sections/Decision-Trees-and-Random-Forests/Decision%20Trees%20and%20Random%20Forest%20Project%20.ipynb)
 
@@ -133,12 +133,12 @@ This course is designed for both beginners with some programming experience or e
   - [x] [SVM Exercise](Machine%20Learning%20Sections/Support-Vector-Machines/Support%20Vector%20Machines%20Project%20.ipynb)
 
 - K Means Clustering
-  - [x] K Means Algorithm Theory
+  - [x] [K Means Algorithm Theory](Machine%20Learning%20Sections/K-Means-Clustering/Intro%20to%20K%20Means%20Clustering.pdf)
   - [x] [K Means with Python](Machine%20Learning%20Sections/K-Means-Clustering/K%20Means%20Clustering%20with%20Python.ipynb)
   - [x] [K Means Exercise](Machine%20Learning%20Sections/K-Means-Clustering/K%20Means%20Clustering%20Project%20.ipynb)
 
 - Principal Component Analysis
-  - [x] Principal Component Analysis
+  - [x] [Principal Component Analysis](Machine%20Learning%20Sections/Principal-Component-Analysis/Principal%20Component%20Analysis.pdf)
   - [x] [PCA with Python](Machine%20Learning%20Sections/Principal-Component-Analysis/Principal%20Component%20Analysis.ipynb)
 
 - Recommender Systems
