@@ -138,6 +138,9 @@ This course is designed for both beginners with some programming experience or e
   - [x] [K Means Exercise](Machine%20Learning%20Sections/K-Means-Clustering/K%20Means%20Clustering%20Project%20.ipynb)
 
 - Principal Component Analysis
+  - [x] Principal Component Analysis
+  - [x] [PCA with Python](Machine%20Learning%20Sections/Principal-Component-Analysis/Principal%20Component%20Analysis.ipynb)
+
 - Recommender Systems
 - Natural Language Processing
 - Big Data and Spark with Python
