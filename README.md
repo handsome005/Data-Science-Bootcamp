@@ -142,6 +142,16 @@ This course is designed for both beginners with some programming experience or e
   - [x] [PCA with Python](Machine%20Learning%20Sections/Principal-Component-Analysis/Principal%20Component%20Analysis.ipynb)
 
 - Recommender Systems
+  - [x] Recommender Systems
+  - [x] [Recommender Systems with Python - Part 1](Machine%20Learning%20Sections/Recommender-Systems/Recommender%20Systems%20with%20Python.ipynb)
+  - [x] [Recommender Systems with Python - Part 2](Machine%20Learning%20Sections/Recommender-Systems/Recommender%20Systems%20with%20Python.ipynb)
+
 - Natural Language Processing
+  - [x] [Natural Language Processing Theory](Machine%20Learning%20Sections/Natural-Language-Processing/Intro%20to%20Natural%20Language%20Processing.pdf)
+  - [x] [NLP with Python - Part 1](Machine%20Learning%20Sections/Natural-Language-Processing/NLP%20(Natural%20Language%20Processing)%20with%20Python.ipynb)
+  - [x] [NLP with Python - Part 2](Machine%20Learning%20Sections/Natural-Language-Processing/NLP%20(Natural%20Language%20Processing)%20with%20Python.ipynb)
+  - [x] [NLP with Python - Part 3](Machine%20Learning%20Sections/Natural-Language-Processing/NLP%20(Natural%20Language%20Processing)%20with%20Python.ipynb)
+  - [x] [NLP Exercise](Machine%20Learning%20Sections/Natural-Language-Processing/NLP%20Project%20.ipynb)
+
 - Big Data and Spark with Python
 - Neural Nets and Deep Learning
