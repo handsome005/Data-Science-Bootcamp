@@ -154,4 +154,17 @@ This course is designed for both beginners with some programming experience or e
   - [x] [NLP Exercise](Machine%20Learning%20Sections/Natural-Language-Processing/NLP%20Project%20.ipynb)
 
 - Big Data and Spark with Python
+  - [x] Welcome to the Big Data Section!
+  - [x] Big Data Overview
+  - [x] Spark Overview
+  - [x] Local Spark Set-Up
+  - [x] AWS Account Set-Up
+  - [x] Quick Note on AWS Security
+  - [x] EC2 Instance Set-Up
+  - [x] SSH with Mac or Linux
+  - [x] PySpark Setup
+  - [x] Lambda Expressions Review
+  - [x] Introduction to Spark and Python
+  - [x] RDD Transformations and Actions
+
 - Neural Nets and Deep Learning
