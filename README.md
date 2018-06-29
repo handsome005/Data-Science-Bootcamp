@@ -162,9 +162,9 @@ This course is designed for both beginners with some programming experience or e
   - [x] Quick Note on AWS Security
   - [x] EC2 Instance Set-Up
   - [x] SSH with Mac or Linux
-  - [x] PySpark Setup
-  - [x] Lambda Expressions Review
-  - [x] Introduction to Spark and Python
-  - [x] RDD Transformations and Actions
+  - [x] [PySpark Setup](https://medium.com/@josemarcialportilla/getting-spark-python-and-jupyter-notebook-running-on-amazon-ec2-dec599e1c297)
+  - [x] [Lambda Expressions Review](Big-Data-and-Spark/Lambda%20expressions%20.ipynb)
+  - [x] [Introduction to Spark and Python](Big-Data-and-Spark/Introduction%20to%20Spark%20and%20Python.ipynb)
+  - [x] [RDD Transformations and Actions](Big-Data-and-Spark/RDD%20Transformations%20and%20Actions.ipynb)
 
 - Neural Nets and Deep Learning
