@@ -168,3 +168,14 @@ This course is designed for both beginners with some programming experience or e
   - [x] [RDD Transformations and Actions](Big-Data-and-Spark/RDD%20Transformations%20and%20Actions.ipynb)
 
 - Neural Nets and Deep Learning
+  - [x] Neural Network Theory
+  - [x] Welcome to the Deep Learning Section!
+  - [x] What is TensorFlow?
+  - [x] Changes with TensorFlow
+  - [x] TensorFlow Installation
+  - [x] TensorFlow Basics
+  - [ ] MNIST with Multi-Layer Perceptron - Part 1
+  - [ ] MNIST with Multi-Layer Perceptron - Part 2
+  - [ ] MNIST with Multi-Layer Perceptron - Part 3
+  - [ ] TensorFlow with ContribLearn
+  - [ ] Tensorflow Project Exercise
