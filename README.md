@@ -142,6 +142,40 @@ This course is designed for both beginners with some programming experience or e
   - [x] [PCA with Python](Machine%20Learning%20Sections/Principal-Component-Analysis/Principal%20Component%20Analysis.ipynb)
 
 - Recommender Systems
+  - [x] Recommender Systems
+  - [x] [Recommender Systems with Python - Part 1](Machine%20Learning%20Sections/Recommender-Systems/Recommender%20Systems%20with%20Python.ipynb)
+  - [x] [Recommender Systems with Python - Part 2](Machine%20Learning%20Sections/Recommender-Systems/Recommender%20Systems%20with%20Python.ipynb)
+
 - Natural Language Processing
+  - [x] [Natural Language Processing Theory](Machine%20Learning%20Sections/Natural-Language-Processing/Intro%20to%20Natural%20Language%20Processing.pdf)
+  - [x] [NLP with Python - Part 1](Machine%20Learning%20Sections/Natural-Language-Processing/NLP%20(Natural%20Language%20Processing)%20with%20Python.ipynb)
+  - [x] [NLP with Python - Part 2](Machine%20Learning%20Sections/Natural-Language-Processing/NLP%20(Natural%20Language%20Processing)%20with%20Python.ipynb)
+  - [x] [NLP with Python - Part 3](Machine%20Learning%20Sections/Natural-Language-Processing/NLP%20(Natural%20Language%20Processing)%20with%20Python.ipynb)
+  - [x] [NLP Exercise](Machine%20Learning%20Sections/Natural-Language-Processing/NLP%20Project%20.ipynb)
+
 - Big Data and Spark with Python
+  - [x] Welcome to the Big Data Section!
+  - [x] Big Data Overview
+  - [x] Spark Overview
+  - [x] Local Spark Set-Up
+  - [x] AWS Account Set-Up
+  - [x] Quick Note on AWS Security
+  - [x] EC2 Instance Set-Up
+  - [x] SSH with Mac or Linux
+  - [x] [PySpark Setup](https://medium.com/@josemarcialportilla/getting-spark-python-and-jupyter-notebook-running-on-amazon-ec2-dec599e1c297)
+  - [x] [Lambda Expressions Review](Big-Data-and-Spark/Lambda%20expressions%20.ipynb)
+  - [x] [Introduction to Spark and Python](Big-Data-and-Spark/Introduction%20to%20Spark%20and%20Python.ipynb)
+  - [x] [RDD Transformations and Actions](Big-Data-and-Spark/RDD%20Transformations%20and%20Actions.ipynb)
+
 - Neural Nets and Deep Learning
+  - [x] Neural Network Theory
+  - [x] Welcome to the Deep Learning Section!
+  - [x] What is TensorFlow?
+  - [x] Changes with TensorFlow
+  - [x] TensorFlow Installation
+  - [x] TensorFlow Basics
+  - [ ] MNIST with Multi-Layer Perceptron - Part 1
+  - [ ] MNIST with Multi-Layer Perceptron - Part 2
+  - [ ] MNIST with Multi-Layer Perceptron - Part 3
+  - [ ] TensorFlow with ContribLearn
+  - [ ] Tensorflow Project Exercise
