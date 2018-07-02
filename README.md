@@ -173,8 +173,8 @@ This course is designed for both beginners with some programming experience or e
   - [x] What is TensorFlow?
   - [x] TensorFlow Installation
   - [x] [TensorFlow Basics](Deep%20Learning/Tensorflow%20Basics.ipynb)
-  - [x] [MNIST with Multi-Layer Perceptron - Part 1](MNIST%20with%20Multi-Layer%20Perceptron.ipynb)
-  - [x] [MNIST with Multi-Layer Perceptron - Part 2](MNIST%20with%20Multi-Layer%20Perceptron.ipynb)
-  - [x] [MNIST with Multi-Layer Perceptron - Part 3](MNIST%20with%20Multi-Layer%20Perceptron.ipynb)
-  - [x] [TensorFlow with ContribLearn](Tensorflow%20with%20ContribLearn.ipynb)
-  - [x] [Tensorflow Project Exercise](Tensorflow%20Project%20Exercise.ipynb)
+  - [x] [MNIST with Multi-Layer Perceptron - Part 1](Deep%20Learning/MNIST%20with%20Multi-Layer%20Perceptron.ipynb)
+  - [x] [MNIST with Multi-Layer Perceptron - Part 2](Deep%20Learning/MNIST%20with%20Multi-Layer%20Perceptron.ipynb)
+  - [x] [MNIST with Multi-Layer Perceptron - Part 3](Deep%20Learning/MNIST%20with%20Multi-Layer%20Perceptron.ipynb)
+  - [x] [TensorFlow with ContribLearn](Deep%20Learning/Tensorflow%20with%20ContribLearn.ipynb)
+  - [x] [Tensorflow Project Exercise](Deep%20Learning/Tensorflow%20Project%20Exercise.ipynb)
