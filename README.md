@@ -6,7 +6,26 @@ This comprehensive course will be your guide to learning how to use the power of
 
 This course is designed for both beginners with some programming experience or experienced developers looking to make the jump to Data Science!
 
-## Course Content
+## What am I going to get from this course?
+
+- Use Python for Data Science and Machine Learning
+- Use Spark for Big Data Analysis
+- Implement Machine Learning Algorithms
+- Learn to use NumPy for Numerical Data
+- Learn to use Pandas for Data Analysis
+- Learn to use Matplotlib for Python Plotting
+- Learn to use Seaborn for statistical plots
+- Use Plotly for interactive dynamic visualizations
+- Use SciKit-Learn for Machine Learning Tasks
+- K-Means Clustering
+- Logistic Regression
+- Linear Regression
+- Random Forest and Decision Trees
+- Natural Language Processing and Spam Filters
+- Neural Networks
+- Support Vector Machines
+
+# Course Content
 
 - Course Introduction
   - [x] Introduction to the Course
